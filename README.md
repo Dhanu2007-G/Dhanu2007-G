@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Dhanu2007-G
+- 👀 I’m interested in technologies related to AI and ML,GENERATIVE AI technologies
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ..
+- ⚡ Fun fact: ...
+
+
