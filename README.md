@@ -1,64 +1,68 @@
-# Hi, I'm Jangam Dhanwanth 👋
-### AI Systems & Autonomous Agents Engineer | B.Tech CSE (AI & ML) @ SRM IST Chennai
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanwanth%20Jangam-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jangam-dhanwanth)
-[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-blue?style=for-the-badge&logo=github)](https://github.com/Dhanu2007-G)
-[![Gmail](https://img.shields.io/badge/Email-dhanwanthjangam%40gmail.com-ea4335?style=for-the-badge&logo=gmail)](mailto:dhanwanthjangam@gmail.com)
-
----
-
-### 🚀 About Me
-I specialize in building **autonomous software engineering agents, GraphRAG architectures, and resilient AI systems**. 
-
-Rather than building simple API wrapper apps, I engineer deterministic, self-correcting agent state machines backed by strict container sandboxing, enterprise security standards, and comprehensive test suites.
-
-- 🔭 Currently building: **Autonomous multi-agent architectures & GraphRAG systems**
-- 🛡️ Core philosophy: **Deterministic execution, 100% test coverage, and isolated sandboxes**
-- 🏆 Recognized: **Gemini Enterprise Agent Ready** (Google Developer) & **Google Cloud Innovator**
-- 💬 Ask me about: **LangGraph, Qdrant, Neo4j, Docker Security Sandboxing, and LLMOps**
-
----
-
-### 🛠️ Technical Arsenal
-
-| Category | Technologies & Tools |
-|---|---|
-| **AI & Agent Frameworks** | LangGraph, LangChain, Multi-Agent State Machines, GraphRAG, Evaluation Harnesses |
-| **Databases & Vector Stores** | PostgreSQL (pgcrypto), Qdrant (Vector DB), Neo4j (Graph DB), Redis |
-| **Backend & APIs** | Python 3.11+, FastAPI, Uvicorn, AsyncIO, RESTful APIs, Webhook HMAC Verification |
-| **DevOps & Sandboxing** | Docker, Docker Compose, Linux, Ephemeral Sandboxes, Prometheus, Grafana, OpenTelemetry |
-| **Quality & Testing** | Pytest (100% statement coverage), Ruff, Mypy, CI/CD, Automated Eval Sets |
-
----
-
-### 🌟 Featured Systems & Open Source
-
-#### 1. [SWE-Agent — Autonomous Software Engineering Agent](https://github.com/Dhanu2007-G/swe-agent)
-> *An autonomous AI coding agent capable of reading GitHub issues, planning patches, self-correcting in sandbox environments, and opening verified pull requests with zero human intervention.*
-* **Architecture:** LangGraph cyclic state machine with Planner, Coder, Tester, Corrector, and PR Generator nodes.
-* **Security:** Ephemeral Docker sandboxing with network isolation (`--network none`) and dropped Linux capabilities.
-* **Test Coverage:** **348 unit & integration tests with 100% statement coverage**.
-* **Stack:** Python, LangGraph, FastAPI, Redis, PostgreSQL, Docker.
-
-#### 2. [AEIMPS — Enterprise Multimodal Intelligence & RAG Platform](https://github.com/Dhanu2007-G/aeimps)
-> *Enterprise incident prevention and multimodal intelligence system with hybrid GraphRAG retrieval.*
-* **Hybrid GraphRAG:** Combines Neo4j Knowledge Graphs with Qdrant dense/sparse vector search.
-* **Enterprise Security:** SAML 2.0 SSO (Okta/Azure AD), 4-tier hierarchical RBAC, dual-layer pgcrypto/Fernet encryption.
-* **Full Observability:** Pre-configured Prometheus metrics, Grafana dashboards, and OpenTelemetry distributed tracing.
-* **Stack:** FastAPI, Neo4j, Qdrant, PostgreSQL, Redis, Next.js, Docker.
-
----
-
-### 📊 GitHub Activity & Metrics
+<h1 align="center">Hi 👋, I'm Jangam Dhanwanth</h1>
+<h3 align="center">AI Systems & Autonomous Agents Engineer | SRM IST Chennai</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanu2007-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dhanwanth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanu2007-G&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Autonomous+Software+Engineering+Agents;LangGraph+%7C+Multi-Agent+Architectures;Hybrid+GraphRAG+(Neo4j+%2B+Qdrant);100%25+Test+Coverage+Engineered+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jangam-dhanwanth"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Dhanu2007-G"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:dhanwanthjangam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 📬 Let's Connect
-- **LinkedIn:** [linkedin.com/in/jangam-dhanwanth](https://linkedin.com/in/jangam-dhanwanth)
-- **Portfolio / Code:** [github.com/Dhanu2007-G](https://github.com/Dhanu2007-G)
-- **Email:** [dhanwanthjangam@gmail.com](mailto:dhanwanthjangam@gmail.com)
+### 🚀 About Me
+- 🔭 Building: **Autonomous multi-agent systems and production GraphRAG architectures**
+- 🛡️ Focus: **Deterministic AI execution, isolated Docker sandboxes, and 100% test coverage**
+- 🏆 Credentials: **Gemini Enterprise Agent Ready** (Google Developer) & **Google Cloud Innovator**
+- 🎓 Education: **B.Tech CSE (AI & ML)** @ SRM Institute of Science and Technology, Chennai
+- 💬 Ask me about: **LangGraph, Qdrant, Neo4j, Docker Security Sandboxing, and LLMOps**
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,linux,git,github,bash" />
+</p>
+
+* **AI & Agent Architectures:** LangGraph, LangChain, Multi-Agent State Machines, GraphRAG, Evaluation Harnesses
+* **Databases & Vector Stores:** PostgreSQL (pgcrypto), Qdrant (Vector DB), Neo4j (Graph DB), Redis
+* **Backend & Security:** FastAPI, Uvicorn, Docker Container Isolation, Webhook HMAC Verification, SAML 2.0 SSO, 4-tier RBAC
+* **Observability & DevOps:** Prometheus, Grafana, OpenTelemetry, Docker Compose, Linux, CI/CD
+* **Testing & Quality:** Pytest (**100% statement coverage**), Ruff, Mypy, Automated Benchmarking
+
+---
+
+### 🌟 Flagship Systems Built
+
+#### 🤖 [SWE-Agent — Autonomous Software Engineering Agent](https://github.com/Dhanu2007-G/swe-agent)
+* Autonomous coding agent that resolves GitHub issues via LangGraph state machines and isolated Docker sandboxes with zero human intervention.
+* Hardened with a **348-test suite maintaining 100% statement coverage**.
+* Ephemeral sandbox execution with dropped Linux capabilities and disabled network access.
+* *Tech Stack:* Python 3.11, LangGraph, FastAPI, Redis, PostgreSQL, Docker.
+
+#### ⚡ [AEIMPS — Enterprise Multimodal Intelligence & GraphRAG Platform](https://github.com/Dhanu2007-G/aeimps)
+* Multimodal incident prevention and intelligence system featuring hybrid GraphRAG.
+* Combines **Neo4j Knowledge Graphs** (relationship mapping) with **Qdrant** (dense/sparse vector search).
+* Enterprise compliance: SAML 2.0 SSO, 4-tier hierarchical RBAC, pgcrypto/Fernet encryption, and full Prometheus/Grafana observability.
+* *Tech Stack:* FastAPI, Neo4j, Qdrant, PostgreSQL, Redis, Docker Compose.
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanu2007-G&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanu2007-G&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let's connect:</b> <a href="https://linkedin.com/in/jangam-dhanwanth">LinkedIn</a> • <a href="mailto:dhanwanthjangam@gmail.com">Email</a>
+</p>
